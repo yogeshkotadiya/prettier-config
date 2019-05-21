@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/yogeshkotadiya/prettier-config/issues"
   },
-  "homepage": "https://github.com/yogeshkotadiya/prettier-config#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "homepage": "https://github.com/yogeshkotadiya/prettier-config#readme"
 }
