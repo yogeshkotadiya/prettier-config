@@ -1,0 +1,22 @@
+{
+  "name": "@yogeshkotadiya/prettier-config",
+  "version": "1.0.0",
+  "description": "Configuration file for prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshkotadiya/prettier-config.git"
+  },
+  "author": "Yogesh Kotadiya <hiyogeshkotadiya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshkotadiya/prettier-config/issues"
+  },
+  "homepage": "https://github.com/yogeshkotadiya/prettier-config#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
