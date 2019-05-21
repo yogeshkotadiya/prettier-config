@@ -12,7 +12,7 @@ npm install --dev @yogeshkotadiya/prettier-config
 
 or
 
-yarn add -d @yogeshkotadiya/prettier-config
+yarn add -D @yogeshkotadiya/prettier-config
 ```
 
 ---
@@ -29,6 +29,19 @@ yarn add -d @yogeshkotadiya/prettier-config
   "bracketSpacing": true,
   "jsxBracketSameLine": false,
   "endOfLine": "lf"
+}
+```
+---
+
+## Usage
+
+In your `.prettierrc.js` file
+
+```js
+module.exports = {
+  ...require("@yogeshkotadiya/prettier-config"),
+  tabWidth: 4
+  //Extend or overwrite with your own preferable options
 }
 ```
 
