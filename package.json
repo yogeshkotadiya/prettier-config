@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yogeshkotadiya/prettier-config.git"
+    "url": "https://github.com/yogeshkotadiya/prettier-config.git"
   },
   "author": "Yogesh Kotadiya <hiyogeshkotadiya@gmail.com>",
   "license": "MIT",
